@@ -14,3 +14,28 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(182, 21, 21);
 }
+
+h1 {
+    font-size: 2cm;
+    color: rgb(226, 2, 2)
+}
+
+img.side {
+    float:right
+}
+
+h2 {
+   font-size: 1.5cm;
+   color: rgb(226, 5, 5)
+}
+
+a {
+    text-decoration:  name;
+    font-weight: bold;
+    color: rgb(226, 6, 6);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: brown;
+}
